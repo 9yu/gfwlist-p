@@ -1,5 +1,6 @@
 var proxy = "__PROXY__";
 var rules = [
+  "*akamai*",
   "||2dbook.com",
   "||4tern.com",
   "|http://85.17.73.31/",
