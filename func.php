@@ -43,11 +43,11 @@ function g_2pac()
 	foreach ($p_array as $rule) {
 		if($count === count($p_array))
 		{
-			$p_content .= '"' . $rule . '"' . "\r\n";
+			$p_content .= '  "' . $rule . '"' . "\r\n";
 		}
 		else
 		{
-			$p_content .= '"' . $rule . '",' . "\r\n";
+			$p_content .= '  "' . $rule . '",' . "\r\n";
 		}
 		$count += 1;
 	}
