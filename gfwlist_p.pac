@@ -1,6 +1,5 @@
 var proxy = "__PROXY__";
 var rules = [
-  "*akamai*",
   "||2dbook.com",
   "||4tern.com",
   "|http://85.17.73.31/",
@@ -6962,7 +6961,7 @@ for (var i = 0; i < rules.length; i++) {
 
 function FindProxyForURL(url, host) {
     if (defaultMatcher.matchesAny(url, host) instanceof BlockingFilter) {
-        return proxy;
+        return "PROXY 127.0.0.1:1080";
     }
     return direct;
 }
