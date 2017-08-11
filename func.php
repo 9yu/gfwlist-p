@@ -54,5 +54,5 @@ function g_2pac()
 	$before_pac = 'var proxy = "__PROXY__";';
 	$after_pac = file_get_contents('part/after_pac.txt');
 	$pac = $before_pac . "\r\n" . 'var rules = [' . "\r\n" . $p_content . '];' . "\r\n" . $after_pac;
-	file_put_contents('gfwlist_p_e.pac', $pac);
+	file_put_contents('gfwlist_p_e.txt', $pac);
 }
