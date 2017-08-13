@@ -1,5 +1,12 @@
 var proxy = "__PROXY__";
 var rules = [
+  "||eurosport.com",
+  "||vod*-ttvnw.akamaized.net",
+  "||live*-ttvnw.akamaized.net",
+  "||twitch.tv",
+  "||jtvnw.net",
+  "||hls.ttvnw.net",
+  "||ea.i.lithium.com",
   "||steamusercontent.com",
   "||steamstatic.com",
   "||steampowered.com",
