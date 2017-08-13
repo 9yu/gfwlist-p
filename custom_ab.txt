@@ -1,0 +1,15 @@
+||akamaihd.net
+||steamcommunity.com
+||steamcontent.com
+||steampowered.com
+||steamstatic.com
+||steamusercontent.com
+||ea.i.lithium.com
+||hls.ttvnw.net
+||jtvnw.net
+||twitch.tv
+||eurosport.com
+||rawgit.com
+||live*-ttvnw.akamaized.net
+||vod*-ttvnw.akamaized.net
+.s3.amazonaws.com
