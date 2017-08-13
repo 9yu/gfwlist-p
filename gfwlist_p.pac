@@ -1,5 +1,6 @@
 var proxy = "__PROXY__";
 var rules = [
+  "@@||cnblogs.com",
   ".s3.amazonaws.com",
   "||rawgit.com",
   "|https://raw.githubusercontent.com/programthink/zhao",
