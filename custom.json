@@ -11,5 +11,6 @@
 	"||twitch.tv",
 	"||live*-ttvnw.akamaized.net",
 	"||vod*-ttvnw.akamaized.net",
-	"||eurosport.com"
+	"||eurosport.com",
+	"|https://raw.githubusercontent.com/programthink/zhao"
 ]

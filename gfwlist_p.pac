@@ -1,5 +1,6 @@
 var proxy = "__PROXY__";
 var rules = [
+  "|https://raw.githubusercontent.com/programthink/zhao",
   "||eurosport.com",
   "||vod*-ttvnw.akamaized.net",
   "||live*-ttvnw.akamaized.net",
