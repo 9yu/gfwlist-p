@@ -1,0 +1,14 @@
+akamaihd.net
+steamcommunity.com
+steamcontent.com
+steampowered.com
+steamstatic.com
+steamusercontent.com
+ea.i.lithium.com
+hls.ttvnw.net
+jtvnw.net
+twitch.tv
+akamaized.net
+eurosport.com
+rawgit.com
+s3.amazonaws.com
