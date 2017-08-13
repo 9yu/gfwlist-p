@@ -3939,7 +3939,6 @@ var domains = {
   "twitbrowser.net": 1, 
   "jbtalks.my": 1, 
   "spike.com": 1, 
-  "akamaized.net": 1, 
   "my03.com": 1, 
   "vivatube.com": 1, 
   "webrush.net": 1, 
