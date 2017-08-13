@@ -1,8 +1,10 @@
 # usage
 
-PAC Address: https://raw.githubusercontent.com/9yu/gfwlist-p/master/gfwlist_p.pac
+Fast mode: https://raw.githubusercontent.com/9yu/gfwlist-p/master/gfwlist_p.pac
 
-我增加的规则位于 [custom.json](https://github.com/9yu/gfwlist-p/blob/master/custom.json)
+Precise mode: https://raw.githubusercontent.com/9yu/gfwlist-p/master/gfwlist_p_ab.pac
+
+我增加的规则位于 [custom.txt](https://github.com/9yu/gfwlist-p/blob/master/custom.txt)
 
 ## SS 使用：
 
