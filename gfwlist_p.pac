@@ -1,5 +1,7 @@
 var proxy = "__PROXY__";
 var rules = [
+  ".s3.amazonaws.com",
+  "||rawgit.com",
   "|https://raw.githubusercontent.com/programthink/zhao",
   "||eurosport.com",
   "||vod*-ttvnw.akamaized.net",

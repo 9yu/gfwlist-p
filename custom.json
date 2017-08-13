@@ -12,5 +12,7 @@
 	"||live*-ttvnw.akamaized.net",
 	"||vod*-ttvnw.akamaized.net",
 	"||eurosport.com",
-	"|https://raw.githubusercontent.com/programthink/zhao"
+	"|https://raw.githubusercontent.com/programthink/zhao",
+	"||rawgit.com",
+	".s3.amazonaws.com"
 ]
